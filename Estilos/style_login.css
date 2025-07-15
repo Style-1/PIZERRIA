@@ -1,0 +1,49 @@
+
+.text-brown {
+    color: #8B4513;
+}
+
+.btn-brown {
+    background-color: #8B4513;
+    border-color: #8B4513;
+    color: white;
+}
+
+    .btn-brown:hover {
+        background-color: #7a3e10;
+        border-color: #7a3e10;
+    }
+
+.btn-outline-brown {
+    border-color: #8B4513;
+    color: #8B4513;
+}
+
+    .btn-outline-brown:hover {
+        background-color: #8B4513;
+        color: white;
+    }
+
+.form-control {
+    border-radius: 12px;
+    transition: all 0.3s ease;
+}
+
+    .form-control:focus {
+        border-color: #8B4513;
+        box-shadow: 0 0 10px rgba(139, 69, 19, 0.5);
+    }
+
+.btn {
+    border-radius: 30px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+    .btn:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    }
+
+legend {
+    letter-spacing: 1px;
+}

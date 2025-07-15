@@ -1,0 +1,57 @@
+.text-brown {
+    color: #8B4513;
+}
+
+.btn-brown {
+    background-color: #8B4513;
+    border-color: #8B4513;
+    color: white;
+}
+
+    .btn-brown:hover {
+        background-color: #7a3e10;
+        border-color: #7a3e10;
+    }
+
+.btn-outline-brown {
+    border-color: #8B4513;
+    color: #8B4513;
+}
+
+    .btn-outline-brown:hover {
+        background-color: #8B4513;
+        color: white;
+    }
+
+.btn {
+    border-radius: 30px;
+    transition: all 0.3s ease;
+}
+
+    .btn:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+    }
+
+.table-hover tbody tr:hover {
+    background-color: #f9f3ed;
+    transform: scale(1.01);
+    transition: all 0.3s ease;
+}
+
+h1 {
+    color: #8B4513;
+    font-weight: bold;
+}
+
+.table {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+    .table th,
+    .table td {
+        vertical-align: middle;
+        padding: 1rem;
+    }
