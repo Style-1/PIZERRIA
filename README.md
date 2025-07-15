@@ -47,3 +47,6 @@ Sistema web desarrollado en PHP para la gestión de pedidos, cocina, caja y bole
 ![Cocina Atendida](img/cocinas-atendidas.png)
 
 ---
+## 📃 Licencia
+Este proyecto está bajo la licencia MIT.
+
